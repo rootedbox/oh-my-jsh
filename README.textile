@@ -11,11 +11,11 @@ You can install this via the command line with either `curl` or `wget`.
 
 h4. via `curl`
 
-@curl -L https://github.com/robbyrussell/oh-my-jsh/raw/master/tools/install.sh | sh@
+@curl -L https://github.com/rootedbox/oh-my-jsh/raw/master/tools/install.sh | sh@
 
 h4. via `wget`
 
-@wget --no-check-certificate https://github.com/robbyrussell/oh-my-jsh/raw/master/tools/install.sh -O - | sh@
+@wget --no-check-certificate https://github.com/rootedbox/oh-my-jsh/raw/master/tools/install.sh -O - | sh@
 
 h3. The manual way
 
