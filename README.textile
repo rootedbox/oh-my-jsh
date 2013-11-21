@@ -1,4 +1,4 @@
-oh-my-jsh is an open source, community-driven framework for managing your ZSH configuration. It comes bundled with a ton of helpful functions, helpers, plugins, themes, and few things that make you shout...
+oh-my-jsh is an open source, community-driven framework for managing your ZSH configuration forked from oh-my-zsh. It comes bundled with a ton of helpful functions, helpers, plugins, themes, and few things that make you shout...
 
 
 h2. Setup
@@ -11,11 +11,11 @@ You can install this via the command line with either `curl` or `wget`.
 
 h4. via `curl`
 
-@curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh@
+@curl -L https://github.com/robbyrussell/oh-my-jsh/raw/master/tools/install.sh | sh@
 
 h4. via `wget`
 
-@wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh@
+@wget --no-check-certificate https://github.com/robbyrussell/oh-my-jsh/raw/master/tools/install.sh -O - | sh@
 
 h3. The manual way
 
